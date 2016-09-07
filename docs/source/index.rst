@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Introduction to PEER for OSS documentation by Joey!
-===========================================
+A Brief Introduction to PEER for OSS documentation!
+===================================================
 
 This is intro content for documentation.
 This is another line.
-Here is another line by Robert...
+Here is another line by Robert, looking for some attention...
 
 Another simple header
 =====================
