@@ -8,7 +8,7 @@ A Brief Introduction to PEER for OSS documentation!
 
 This is intro content for documentation.
 This is another line.
-Here is another line by Robert, looking for some attention...
+Here is another line by Robert, looking for some respect...
 
 Another simple header
 =====================
